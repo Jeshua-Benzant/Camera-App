@@ -1,4 +1,5 @@
 {
+    "id": "a97800e9-e0e7-4140-87cb-33d05b886db9",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -500,7 +501,6 @@
             "name": "305Soft1"
         }
     ],
-    "id": "a97800e9-e0e7-4140-87cb-33d05b886db9",
     "thunkableVersion": 443,
     "name": "Screen2"
 }

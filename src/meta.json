@@ -21,8 +21,8 @@
                     "createdAt": "2024-01-30T03:56:08.578Z",
                     "updatedAt": "2024-01-30T03:56:08.578Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea34ffa15b11ec82acf10/projects/65b85c86bf29bab43ad51a06/assets/65b87358b6c5109f1e462169?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240205%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240205T165610Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a0eda6945293ee3700c817796fc998b42407fb60484b15f5e916e74240ada8ac68657344888571311aa606eb231d95ca1ea069130418362c759f32af5c44a898e41b3c9ee1d578959385e8498e2d26398c7e099ae96d4fd515e2f6087b76a46cf0c251c0c3b8ae3900247bc380c63620adb8e6fe427cc089afac551c677c1db4a8749658cc5295ccf5bef5c7330a954cbd983d8068218bc10cb5f49ecd7d97e200997183366e9c220ee0eb95dac17978eacc97a53d62aeacffbfcf56aed14b40555cde234448187053083ef4258c3e9c2dc780dc4e67826179a35aac6d1dc7a183cb25880b82b74d4ec2e8be31e0b08573c4d1f9d13ca05e9d8d0bff0c446c32",
-                    "signedUrlExpirationTime": 1707324970784
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea34ffa15b11ec82acf10/projects/65b85c86bf29bab43ad51a06/assets/65b87358b6c5109f1e462169?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240207%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240207T043455Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=88f223defeaaa06d7bef242a72d949e52e6d8e73b5252cddaf527872777ccb2ea30759d9ef202322817cf373a0ebd4a97ca7247493d1896bcf063139efb53a5617270da6fd6835ea81cade953c5e2cdbb23012f41dde44249911d0b6f079525f166da7d17dec7cb5b49644cdd8832eb04dc99e518fa1c8e6dfc150f38cfcc6c9edea2495ce75c5721544da6faceb3642ec3332ed37a8fbe1c1e1c6254b27f526f87c4df26fe6ed6fe22e7e2657320deb97378f4dd34ab8449ef2d52838b07f726b88fd3cc2e5ffca8ea8b0b0b7c34e7ac1c14598a8a98dc5cdd412b981f43989f0268ee05b56e9d147a173ca2894c7654218f35e89d135e64b6dc3c1ae011e1c",
+                    "signedUrlExpirationTime": 1707453295794
                 }
             },
             "backendUpgradeVersion": 24,
@@ -47,6 +47,7 @@
                         ]
                     },
                     "enabledFeatures": {
+                        "location": true,
                         "iap": false
                     }
                 },
@@ -91,7 +92,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera App",
+            "projectName": "Camera App_dev",
             "settings": {
                 "teamId": null,
                 "appName": "Camera App",
@@ -125,7 +126,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -174,7 +175,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
